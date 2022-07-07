@@ -1,0 +1,14 @@
+{
+  "sudo dpkg -i google-chrome-stable_current_amd64.deb dpkg -i google-chrome-stable_current_amd64.debme": "fistapp",
+  "version": "1.0.0",
+  "description": "my fist app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sinthujan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.7.0"
+  }
+}
